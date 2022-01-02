@@ -1,0 +1,7 @@
+The difference between var and let is that var is global. Let is within block Var can be reassigned and redeclared. Let can be reassigned, but not redeclared. 
+
+Var can be reassigned and redeclared. Const cannot be reassigned or redeclared. 
+
+Let can be reassigned, but not redeclared. Const cannot be reassigned or redeclared. 
+
+Hoisting is pulling the variable to the top. Var will run before initialized. Let and const will not.
